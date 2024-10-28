@@ -1,10 +1,10 @@
-### Olá! Eu sou o Christian Kuriak Chung Ferrari 
+### Olá! Sou o Christian Kuriak Chung Ferrari 
 
 ### Sobre mim:
 - ✅ Estudante de Analise e desenvolvimento de sistemas.
 - 📈 Foco: Dev Back-End.
 - ⚖️ Habilidades: Resiliência, Trabalho em Equipe, Comunicação e Paciência.
-- 
+  
 ###
 
 <h1 align="center">Aceita um drink?</h1>
