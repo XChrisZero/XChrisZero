@@ -60,7 +60,7 @@
 <div>
     <a href="https://github.com/codingscode">
 	<p align="center">
-    	    <img src="https://activity-graph.herokuapp.com/graph?username=codingscode&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=F3F5CB&point=099430&line=95f5b0&theme=github-light" alt="Recently contributions graph" />
+    	    <img src="https://activity-graph.herokuapp.com/graph?username=XChrisZero&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=F3F5CB&point=099430&line=95f5b0&theme=github-light" alt="Recently contributions graph" />
 	</p>
 	
 </div>
