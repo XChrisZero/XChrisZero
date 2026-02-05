@@ -2,8 +2,8 @@
 
 ### Sobre mim:
 - ✅ Formado de Analise e desenvolvimento de sistemas.
-- 📈 Foco: Dev Back-End.
-- ⚖️ Habilidades: Boas praticas, TDD, Design patterns GOF .
+- 📈 Foco: SDET
+- ⚖️ Habilidades: Boas praticas, TDD, Design patterns GOF, src Layout, Ecosistema Astral(uv, RUFF) .
   
 ###
 
